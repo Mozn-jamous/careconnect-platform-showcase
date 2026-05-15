@@ -169,7 +169,7 @@ This is the classic two-sided marketplace pattern (Uber, Airbnb, TaskRabbit) —
 
 The visual design system, user flows, and prototypes for CareConnect live in Figma:
 
-🔗 **[CareConnect Figma — ta3delat-llmarah-alalf](https://www.figma.com/design/8nNCv2zMnDqGnqq0y9z0i0/ta3delat-llmarah-alalf?node-id=4-963&p=f&t=O1b2YYEJMZ5BWpS3-0)**
+🔗 **[CareConnect Figma — full design & prototype](https://www.figma.com/design/8nNCv2zMnDqGnqq0y9z0i0/Care-connect?t=lLHVpV4sLyX1ayFT-0)**
 
 The Figma file contains:
 - Color tokens and typography

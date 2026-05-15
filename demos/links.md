@@ -4,8 +4,8 @@
 
 ## Design Prototype
 
-🎨 **Figma — interactive prototype:**
-[ta3delat-llmarah-alalf](https://www.figma.com/design/8nNCv2zMnDqGnqq0y9z0i0/ta3delat-llmarah-alalf?node-id=4-963&p=f&t=O1b2YYEJMZ5BWpS3-0)
+🎨 **Figma — full design system & interactive prototype:**
+[Care-connect Figma](https://www.figma.com/design/8nNCv2zMnDqGnqq0y9z0i0/Care-connect?t=lLHVpV4sLyX1ayFT-0)
 
 > Includes:
 > - Full screen-by-screen flows for the Parent App
