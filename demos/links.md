@@ -15,8 +15,9 @@
 
 ## Mobile Builds
 
-📱 **Parent App APK:** *coming soon*
-📱 **Babysitter App APK:** *coming soon*
+📱 **Mother App APK:** *coming soon*
+📱 **Babysitter App APK:** *coming soon (co-developed with [@shaha123s](https://github.com/shaha123s))*
+🛡 **Admin Panel:** *internal-only — demo on request*
 
 ## Video Walkthroughs
 
