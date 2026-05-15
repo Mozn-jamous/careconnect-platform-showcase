@@ -29,6 +29,6 @@
 
 For a synchronous demo over video call, a Figma walkthrough, or APK access:
 
-**Email:** asaierafi@clinlab.ai
+**Email:** moznjamous9@gmail.com
 
 Please include a brief intro about your role (parent / babysitter / employer / grant reviewer / collaborator).

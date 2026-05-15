@@ -64,7 +64,7 @@ All three apps sync in real time via Supabase Realtime. Integrations: Google Map
 
 ## 📞 Contact
 
-**Mozn Jamous** · asaierafi@clinlab.ai · linkedin.com/in/mozn-jamous
+**Mozn Jamous** · moznjamous9@gmail.com · linkedin.com/in/mozn-jamous
 
 ---
 

@@ -265,7 +265,7 @@ The original IEEE 830 SRS document is available on request.
 
 ## 📬 Contact
 
-- **Email:** asaierafi@clinlab.ai
+- **Email:** moznjamous9@gmail.com
 - **GitHub:** [@Mozn-jamous](https://github.com/Mozn-jamous)
 - **LinkedIn:** [Mozn Jamous](https://www.linkedin.com/in/mozn-jamous)
 

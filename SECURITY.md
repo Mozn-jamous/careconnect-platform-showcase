@@ -15,7 +15,7 @@ If you discover a security vulnerability in CareConnect, **do not open a public 
 
 Report it privately by emailing:
 
-📧 **asaierafi@clinlab.ai**
+📧 **moznjamous9@gmail.com**
 
 Subject line: `[SECURITY] CareConnect — Brief description`
 

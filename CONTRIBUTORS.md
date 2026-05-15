@@ -8,7 +8,7 @@ CareConnect is a three-tier childcare ecosystem (Mother App + Babysitter App + A
 
 ### Mozn Jamous
 - **GitHub:** [@Mozn-jamous](https://github.com/Mozn-jamous)
-- **Email:** asaierafi@clinlab.ai
+- **Email:** moznjamous9@gmail.com
 - **LinkedIn:** [Mozn Jamous](https://www.linkedin.com/in/mozn-jamous)
 - **Primary contributions:**
   - Full Mother App design and development (Flutter)
